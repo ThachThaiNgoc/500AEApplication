@@ -13,6 +13,7 @@ namespace _500AEWebAPI
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //Testing
         }
     }
 }

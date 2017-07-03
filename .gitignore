@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/500AEWebAPI/500AE.Build/bin/Debug
+/500AEWebAPI/500AE.Build/obj/Debug
+/500AEWebAPI/500AE.Commons/bin/Debug
+/500AEWebAPI/500AE.Commons/obj/Debug
+/500AEWebAPI/500AE.Data/bin/Debug
+/500AEWebAPI/500AE.Data/obj/Debug
+/500AEWebAPI/500AE.Domain/bin/Debug
+/500AEWebAPI/500AE.Domain/obj/Debug
+/500AEWebAPI/500AE.Models/bin/Debug
+/500AEWebAPI/500AE.Models/obj/Debug
+/500AEWebAPI/500AE.Services/obj/Debug
+/500AEWebAPI/500AEWebAPI/bin
+/500AEWebAPI/500AEWebAPI/obj/Debug
+/500AEWebAPI/packages
+/packages
